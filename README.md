@@ -35,7 +35,7 @@ The Apartment Rental WebApp is a comprehensive platform designed to simplify the
 - [KHUSHAL DAVE](https://www.github.com/Khushall-7)
 - [SONU KUMAR YADAV](https://github.com/SonuXcoderMania)
 - [HARSH KUMAR](https://github.com/krharshz44)
-- [GUDEKAR SANIYA ROHIDAS](https://www.github.com/octokatherine)
+- [GUDEKAR SANIYA ROHIDAS](https://www.github.com/San13web)
 
 
 
